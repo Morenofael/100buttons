@@ -25,9 +25,10 @@
     width: 200px;
     height: 200px;
     background-color: bisque;
+    border: 10px solid black;
 }
 .content{
     margin:0;
-    font-size: 200px;
-    
+    font-size: 150px;
+    word-wrap: break-word;
 }
