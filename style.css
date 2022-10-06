@@ -1,0 +1,29 @@
+
+.header-container{
+    display:flex;
+    
+    background-color: lightblue;
+}
+.header-container{
+    display: flex;
+    justify-content: center;
+}
+.grid-container{
+    display: flex;
+    justify-content: center;
+}
+.grid{
+    display: flex;
+    width:1200px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.grid-item{
+    width: 200px;
+    height: 200px;
+    background-color: bisque;
+   
+}
+.content{
+    color:blue;
+}
