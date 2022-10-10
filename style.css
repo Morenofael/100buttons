@@ -66,3 +66,10 @@ a{
         transform: translateY(120px);
     }
 }
+.loading-container{
+    display: flex;
+    flex-direction: column;
+    margin:auto;
+    width:50%;
+    height:50%;
+}
