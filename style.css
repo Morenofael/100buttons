@@ -78,3 +78,20 @@ a{
     width:50%;
     height:50%;
 }
+.flexContainer{
+    width: 600px;
+    height:400px;
+    background-color: whitesmoke;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.flex{
+    width: 100px;
+    height:100px;
+    background-color: blue;
+}
+.flex:hover{
+    background-color: purple;
+}
