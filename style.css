@@ -95,3 +95,26 @@ a{
 .flex:hover{
     background-color: purple;
 }
+.candidateContainer{
+    width:600px;
+    height:300px;
+    background-color: hsl(180, 95%, 29%);
+    display:flex;
+    margin:auto;
+    margin-top: 150px;
+    justify-content: space-between;
+}
+.description{
+    width: 385px;
+    height: 250px;
+    background-color: hsl(180, 95%, 29%);;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.candidatePicture{
+    width: 200px;
+    height: 250px;
+    background-color: red;
+    margin-right: 5px;
+    margin-top: 5px;
+}
